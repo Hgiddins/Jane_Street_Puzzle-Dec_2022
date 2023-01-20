@@ -1,5 +1,7 @@
 ## Jane Street's Monthly Puzzle: December-2022
 
+Puzzle: https://www.janestreet.com/puzzles/die-agony-index/
+
 **This algorithm procedurally generates the values on each side of the die whilst adapting  _Trémaux's_ maze-solving algorithm to ensure all viable routes are explored and the correct path is found:**
 
   1. Check if the current node is destination node. If so, terminate the algorithm. If not, continue.
