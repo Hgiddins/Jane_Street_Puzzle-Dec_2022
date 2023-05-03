@@ -21,7 +21,7 @@ board = [[57,33,132,268,492,732],
          [5,23,-4,592,445,620],
          [0,77,32,403,337,452]]
 
-# The representation of a die can be best understand spatially as a cube-net
+# The representation of a die can be best understood spatially as a cube-net
 # die[1][0] will be used to represent the face up number on the die
 die_0 = [[0],
          [0,0,0,0],
